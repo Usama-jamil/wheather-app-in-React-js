@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[![Capture.png](https://i.postimg.cc/fTZjZHxv/Capture.png)](https://postimg.cc/mhXFyypc)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
